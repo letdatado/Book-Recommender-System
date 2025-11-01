@@ -1,0 +1,8 @@
+{
+  "factors": 256,
+  "reg": 0.08,
+  "alpha": 50.0,
+  "iters": 28,
+  "blend": 0.05,
+  "topk": 10
+}
